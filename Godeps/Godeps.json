@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/SpaTmole/overly-attached-gopher",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/subosito/gotenv",
+			"Comment": "v1.1.0",
+			"Rev": "009e1f9581dc712aba5682a279dee155ca3eeded"
+		},
+		{
+			"ImportPath": "github.com/yanatan16/golang-instagram/instagram",
+			"Rev": "aff9deb8031a84f3ee1a4bbd7ad30f16ac6c8370"
+		}
+	]
+}
